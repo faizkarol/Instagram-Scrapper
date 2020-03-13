@@ -1,5 +1,4 @@
 # Instagram-Scrapper
-//Mainapp.py
 import argparse
 import codecs
 import errno
