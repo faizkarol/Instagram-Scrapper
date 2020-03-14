@@ -26,7 +26,7 @@ setup(
     url='https://github.com/faizkarol/instagram-scraper',
     download_url='https://github.com/faizkarol/instagram-scraper/tarball/1.5.5',
     download_url='https://github.com/faizkarol/instagram-scraper/tarball/1.5.6',
-    author='Richard Arcega',
+    author='Faiz Karol',
     author_email='faizkarol78@gmail.com',
     license='Public domain',
     packages=find_packages(exclude=['tests']),
